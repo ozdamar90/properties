@@ -1,4 +1,4 @@
-package Driver;
+package Utils;
 
 public enum Browsers {
     CHROME,
